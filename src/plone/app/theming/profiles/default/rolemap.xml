@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rolemap>
+
+  <roles />
+
+  <permissions>
+    <permission name="Plone Site Setup: Themes"
+                acquire="True">
+      <role name="Manager" />
+      <role name="Site Administrator" />
+    </permission>
+  </permissions>
+
+</rolemap>
